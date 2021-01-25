@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Progress Bar</string>
+    <string name="draw">draw</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+    <string name="yellow">YELLOW</string>
+    <string name="progress">progress</string>
+</resources>
