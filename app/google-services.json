@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785366687196",
+    "project_id": "costom-progress-bar",
+    "storage_bucket": "costom-progress-bar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785366687196:android:fc75441adad410bdbe8319",
+        "android_client_info": {
+          "package_name": "com.example.customprogressbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785366687196-6k3gbpm972gklqp3qqlo2eh5brhter67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvqNUhRHTtQtwxazqjGREoewfWDfF9lQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785366687196-6k3gbpm972gklqp3qqlo2eh5brhter67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

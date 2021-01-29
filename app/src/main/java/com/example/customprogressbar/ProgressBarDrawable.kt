@@ -2,6 +2,7 @@ package com.example.customprogressbar
 
 import android.graphics.*
 import android.graphics.drawable.Drawable
+import com.google.firebase.remoteconfig.FirebaseRemoteConfigValue
 
 class ProgressDrawable : Drawable() {
     var mPaint: Paint = Paint()
